@@ -1,5 +1,5 @@
 <?php
-	$heading='Detta är namnet på webbsidan';
+	$heading='Code Retards';
 
-	$footer= 'detta är innehållet i footern';
+	$footer= include('js/facebook/like/like.js');
 ?>
