@@ -1,3 +1,4 @@
+<?php include('variables/variables.php'); ?>
 <div id="footer">
-	<a href="footer.php"></a>
-</div>
+	<p><?php echo $footer ?></p>
+</div><!-- end #footer -->

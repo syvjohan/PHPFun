@@ -1,7 +1,7 @@
 <div id="sidebar">
 	<h3>Navigation </h3>
-		<li><a href="#">Home</a></li>
-		<li><a href="#">About</a></li>
+		<li><a href="index.php">Home</a></li>
+		<li><a href="about.php">About</a></li>
 		<li><a href="#">Portfolio</a></li>
 		<li><a href="#">Contact</a></li>
 	<h3>Box Two</h3>
