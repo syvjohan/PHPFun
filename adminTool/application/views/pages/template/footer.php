@@ -2,11 +2,12 @@
 	<div class="column left">
 		<p class="icon email">
 			<a href="php echo email!">
-			<!--<?php echo $email; ?>" -->
+			<?php echo $email; ?>
 			</a>
+			<!-- google maps -->
 		<p class="icon home">
 			<a href="http://maps.google.com/?q=<?php echo $address; ?>" target="_blank">
-			<!--<?php echo $address; ?>" -->
+			<?php echo $address; ?>"
 	</div>
 	<div class="column right">
 	<!-- Facebook -->

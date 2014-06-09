@@ -1,6 +1,16 @@
 <main id="startPage">
 	<h1>News</h1>
 		<div class="news">
-			<a href="https://news.ycombinator.com/" target="_blank">Visit Hacker News
-			<img src="/resources/img/hackerNews.gif" alt="Hacker news"></a>
+			<dl>
+				<dt>
+					<a href="https://news.ycombinator.com/" target="_blank"> 
+					<img src="/resources/img/hackerNews.gif"/>
+					</a>
+				</dt>
+				<dt>
+					<a href="http://programming-motherfucker.com/" target="_blank">
+					<img src="/resources/img/hackerNews.png"/>
+					</a>
+				</dt>
+			</dl>
 		</div>
