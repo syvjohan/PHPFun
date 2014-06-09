@@ -1,5 +1,15 @@
 <footer>
+	<div class="column left">
+		<p class="icon email">
+			<a href="php echo email!">
+			<!--<?php echo $email; ?>" -->
+			</a>
+		<p class="icon home">
+			<a href="http://maps.google.com/?q=<?php echo $address; ?>" target="_blank">
+			<!--<?php echo $address; ?>" -->
+	</div>
 	<div class="column right">
+	<!-- Facebook -->
 		<div class="fb-like" data-href="http://google.com" data-width="200px" 
 		data-layout="standard" data-action="like" data-show-faces="true" 
 		data-share="true">
