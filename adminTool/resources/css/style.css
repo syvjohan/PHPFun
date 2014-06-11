@@ -81,3 +81,42 @@ padding:10px;
 	height: 64px;
 	border: 1px;
 }
+
+
+#startPage {
+
+}
+
+.menu {
+
+}
+
+head {
+
+}
+
+
+nav {
+
+}
+
+.logga {
+	
+}
+
+#navigationmenu {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+}
+
+a {
+	display: block;
+	width: 60px;
+	background-color: #ddddddd;
+}
