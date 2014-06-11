@@ -14,10 +14,9 @@
 				<!-- här ska alla sidorna placeras! -->
 			</div>
 		</nav>
-			<div class="container">
-				<header>
-					här ska headern placeras, ex en bild eller sloggan...
-					Kanske en fading line? <!-- <div class="fading-line"></div> -->
-				</header>
+			<header>
+				här ska headern placeras, ex en bild eller sloggan...
+				Kanske en fading line? <!-- <div class="fading-line"></div> -->
+			</header>
 
 	</body>

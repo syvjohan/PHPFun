@@ -76,10 +76,14 @@ border-top:1px solid #ccc;
 padding:10px;
 }
 
-.news {
-	width: 64px;
-	height: 64px;
-	border: 1px;
+.sites {
+	
+}
+
+img {
+width: 64px;
+height: 64px;
+border: 1px;
 }
 
 
